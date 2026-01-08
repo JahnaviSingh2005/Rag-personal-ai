@@ -1,4 +1,4 @@
-# rag-personal-ai
+
 # RAG Personal AI Assistant
 
 This is a Retrieval-Augmented Generation (RAG) Personal AI Assistant.
